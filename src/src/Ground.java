@@ -17,9 +17,11 @@ class Ground{
 	System.out.println("Area of circle ="+aOC);
     System.out.println("Perimeter of circle ="+pOC);
   }
+  
   public static void main(String[] args){
 	Ground ground=new Ground();
     ground.rectangle(10,7);
     ground.circle(2.5);	
   }
+  
 }

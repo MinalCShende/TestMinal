@@ -1,3 +1,4 @@
+//WAP ITProfessional which contains methods like empName, doesPartyOnWeekend, isAddictedToTea, isAddictedToCoffee, isAddictedToAlcohol.
 package src;
 
 class ITProfessional{

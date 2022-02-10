@@ -1,3 +1,4 @@
+//WAP called car deatails which contains method like setcompanyName, setIsCarAutomatic, setCarSpeed, displaySpecificatio.
 package src;
 
 class Car{
@@ -31,5 +32,4 @@ class Car{
 	
    }
    
-
 }

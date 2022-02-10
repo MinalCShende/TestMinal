@@ -4,11 +4,11 @@ package src;
 class SquareAndCube{
 
   void square(int num){
-  int answer=num* num ;
+   int answer=num* num ;
    System.out.println("Square of num is = "+ answer);  
   }
   
-  void cube(int num){
+   void cube(int num){
 	int answer=num*num*num; 
 	System.out.println("Square of num is = "+ answer);   
   }

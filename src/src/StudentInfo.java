@@ -1,3 +1,4 @@
+//WAP to print all deatails of student like name, middle name, surname, birthdate, address and roll number
 package src;
 
 class StudentInfo{

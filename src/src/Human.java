@@ -1,3 +1,4 @@
+//WAP called Human in which class have some behaviour(methods) like name, age and canSpeak.
 package src;
 
 class Human{

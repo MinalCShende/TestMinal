@@ -1,3 +1,4 @@
+//WAP called bank account details.
 package src;
 
 class Bank{
@@ -16,11 +17,12 @@ class Bank{
 	  password=updatePass;
    
    }
-    void displayInfo(){
+   
+   void displayInfo(){
 	  System.out.println("username is "+username);
       System.out.println("bankAccountNumber is "+bankAccountNumber);
 	  System.out.println("password is "+password);
-	}
+   }
    
    public static void main(String[] args){
 	  Bank bank=new Bank();
