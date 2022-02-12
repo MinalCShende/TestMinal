@@ -28,6 +28,7 @@ class Bank{
 	  Bank bank=new Bank();
       bank.setDetails("Minal Shende", "chemin", 1234);
       bank.updatePassword("chemin0108");
-      bank.displayInfo();	  
+      bank.displayInfo();
+      System.out.println();
    }
 }
