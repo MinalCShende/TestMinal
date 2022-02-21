@@ -1,5 +1,6 @@
-//WAP to find area and perimeter of a rectangle and circle.
 package src;
+//Assignment 2
+//WAP to find area and perimeter of a rectangle and circle.
 
 class Ground{
 

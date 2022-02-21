@@ -1,5 +1,6 @@
-//WAP to compute simple interest.
 package src;
+//Assignment 2
+//WAP to compute simple interest.
 
 class SI{
 

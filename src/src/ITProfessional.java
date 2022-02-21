@@ -1,5 +1,6 @@
-//WAP ITProfessional which contains methods like empName, doesPartyOnWeekend, isAddictedToTea, isAddictedToCoffee, isAddictedToAlcohol.
 package src;
+//Assignment 3
+//WAP ITProfessional which contains methods like empName, doesPartyOnWeekend, isAddictedToTea, isAddictedToCoffee, isAddictedToAlcohol.
 
 class ITProfessional{
    String name;

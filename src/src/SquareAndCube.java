@@ -1,5 +1,6 @@
-//WAP to calculate square and cube of a number.
 package src;
+//Assignment 2
+//WAP to calculate square and cube of a number.
 
 class SquareAndCube{
 

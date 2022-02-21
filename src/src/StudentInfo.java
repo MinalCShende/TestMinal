@@ -1,5 +1,7 @@
-//WAP to print all deatails of student like name, middle name, surname, birthdate, address and roll number
 package src;
+//Assignment 1
+//WAP to print all deatails of student like name, middle name, surname, birthdate, address and roll number
+
 
 class StudentInfo{
       String name="Shikha" ,middleName="Amit" ,surname="Patel";

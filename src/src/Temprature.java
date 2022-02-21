@@ -1,6 +1,7 @@
-//WAP to convert temprature from fahrenheit to celcius degree.
-
 package src;
+
+//Assignment 2
+//WAP to convert temprature from fahrenheit to celcius degree.
 
 class Temprature{
 

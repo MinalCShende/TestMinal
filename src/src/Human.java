@@ -1,5 +1,7 @@
-//WAP called Human in which class have some behaviour(methods) like name, age and canSpeak.
 package src;
+
+//Assignment 3
+//WAP called Human in which class have some behaviour (methods) like name, age and canSpeak.
 
 class Human{
   String name;

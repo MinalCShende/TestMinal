@@ -1,5 +1,6 @@
-//WAP called car deatails which contains method like setcompanyName, setIsCarAutomatic, setCarSpeed, displaySpecificatio.
 package src;
+//Assignment 3
+//WAP called car deatails which contains method like setcompanyName, setIsCarAutomatic, setCarSpeed, displaySpecificatio.
 
 class Car{
    String name;

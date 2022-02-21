@@ -1,5 +1,7 @@
-//WAP called bank account details.
 package src;
+
+//Assignment 3
+//WAP called bank account details.
 
 class Bank{
    String username;
